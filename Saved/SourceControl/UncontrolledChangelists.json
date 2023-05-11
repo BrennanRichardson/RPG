@@ -1,0 +1,50 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"M:/Unreal Games/RPG_1/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/RPG_Char/Animations/Crouch/Crouh_Walk.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/RPG_Char/Animations/Crouch/Crouch_Idle.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/RPG_Char/Animations/Locomotion/Walk_Stop.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/RPG_Char/Animations/Locomotion/Idle_Break.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/RPG_Char/Animations/Locomotion/Locomotion_BS.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/RPG_Char/Animations/ABP_RPGChar.uasset",
+				"M:/Unreal Games/RPG_1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/RPG_Char/Animations/Crouch/Crouch_BS.uasset",
+				"M:/Unreal Games/RPG_1/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"M:/Unreal Games/RPG_1/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/RPG_Char/Animations/Lean/Lean_Left.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/RPG_Char/Animations/Lean/Lean_Right.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/RPG_Char/Animations/Lean/Lean_BS.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_Blue_01.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_Blue_02.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/RPG_Char/Animations/Vaulting/VaultOver.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/RPG_Char/Animations/Vaulting/VaultOver_Montage.uasset",
+				"M:/Unreal Games/RPG_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/9H/INMCYYPZDCA3V4YLI54KJV.uasset",
+				"M:/Unreal Games/RPG_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/KR/0ZVJSKHU3UE0MB8HNEZTBU.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/RPG_Char/Animations/Assassination/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/RPG_Char/Animations/Assassination/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/RPG_Char/Animations/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/RPG_Char/Animations/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/RPG_Char/Animations/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"M:/Unreal Games/RPG_1/Content/Blueprints/BP_Dummy.uasset",
+				"M:/Unreal Games/RPG_1/Content/Blueprints/BPI_Assassination.uasset",
+				"M:/Unreal Games/RPG_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/AF/TBD5128TTO8FLE8ZA5LA96.uasset",
+				"M:/Unreal Games/RPG_1/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"M:/Unreal Games/RPG_1/Content/ThirdPerson/Input/Actions/IA_Assassination.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/RPG_Char/Animations/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
+				"M:/Unreal Games/RPG_1/Content/UI/WB_AssassinationPrompt.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/RPG_Char/Animations/Walk_Stop.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/RPG_Char/Animations/Idle_Break.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/RPG_Char/Animations/Crouh_Walk.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/RPG_Char/Animations/Crouch_Idle.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_Blue.uasset",
+				"M:/Unreal Games/RPG_1/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_Blue_0.uasset"
+			]
+		}
+	]
+}
